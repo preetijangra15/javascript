@@ -1,0 +1,39 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+#colorfuldiv{
+    height: 89vh;
+    width: 99.9vw;
+    align-content: center;
+}
+#head{
+    height: 8vh;
+}
+h1{
+    padding-left: 15vw;
+    font-family: cursive;
+}
+button{
+    position: absolute;
+    top: 70%;
+    right: 45%;
+    align-content: center;
+    background-color: black;
+    color: whitesmoke;
+    border: 2px solid black;
+    height: 6vh;
+    width: 10vw;
+    border-radius: 6px;
+}
+#colorname{
+    position: fixed;
+    top: 45%;
+    left: 25%;
+    height: 15vh;
+    width: 50vw;
+    background-color: whitesmoke;
+    float: top;
+    border-radius: 12px;
+    align-content: center;
+}

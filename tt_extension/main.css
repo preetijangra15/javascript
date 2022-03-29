@@ -1,0 +1,58 @@
+body{
+    background-color: blue;
+    min-width: 400px;
+    min-height: 500px;
+    text-align: center;
+}
+h1{
+    color: white;
+}
+h2{
+    color: wheat;
+}
+#monday, #tuesday, #wed, #thursday, #friday, #saturday, #sunday{
+    background: whitesmoke;
+    color: blue;
+    width: 130px;
+    padding: 10px 5px;
+    border: none;
+    font-weight: bold;
+    border-radius: 2%;
+    margin-top: 10px;
+    
+}
+button{
+    background: whitesmoke;
+    color: blue;
+    width: 60px;
+    padding: 5px 10px;
+    border: none;
+    font-weight: bold;
+    border-radius: 6%;
+    
+}
+
+ul button{
+    position: absolute;
+    right: 20px;
+}
+li{
+    color: wheat;
+    text-align: left;
+    list-style-type: none;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    border-bottom: 1px solid whitesmoke;
+    font-weight: bold;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+h3{
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: 500;
+}
